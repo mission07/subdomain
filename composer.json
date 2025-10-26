@@ -1,0 +1,18 @@
+{
+    "name": "test/my-library",
+    "description": "A library that does something useful.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Test\\MyLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ani"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
